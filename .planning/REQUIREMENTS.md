@@ -9,20 +9,20 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Hero & Navigation
 
-- [ ] **NAV-01**: User thấy Hero section với headline, subheadline, và CTA button đặt lịch
-- [ ] **NAV-02**: User thấy Navigation bar sticky khi scroll (mobile hamburger menu)
+- [x] **NAV-01**: User thấy Hero section với headline, subheadline, và CTA button đặt lịch
+- [x] **NAV-02**: User thấy Navigation bar sticky khi scroll (mobile hamburger menu)
 - [ ] **NAV-03**: User chuyển đổi ngôn ngữ VI/EN qua language switcher
 
 ### About
 
-- [ ] **ABT-01**: User đọc giới thiệu bản thân giáo viên (profile, kinh nghiệm, chứng chỉ 200-Hour Yoga Alliance)
-- [ ] **ABT-02**: User thấy hình ảnh chuyên nghiệp của giáo viên
+- [x] **ABT-01**: User đọc giới thiệu bản thân giáo viên (profile, kinh nghiệm, chứng chỉ 200-Hour Yoga Alliance)
+- [x] **ABT-02**: User thấy hình ảnh chuyên nghiệp của giáo viên
 
 ### Services
 
-- [ ] **SRV-01**: User thấy 3 dịch vụ: Private 1:1, Small Group (1:6), Online Class
-- [ ] **SRV-02**: User đọc mô tả ngắn gọn cho từng dịch vụ
-- [ ] **SRV-03**: User thấy Small Group (1:6) nổi bật nhất (primary service)
+- [x] **SRV-01**: User thấy 3 dịch vụ: Private 1:1, Small Group (1:6), Online Class
+- [x] **SRV-02**: User đọc mô tả ngắn gọn cho từng dịch vụ
+- [x] **SRV-03**: User thấy Small Group (1:6) nổi bật nhất (primary service)
 
 ### Pricing
 
@@ -99,14 +99,14 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| NAV-01 | Phase 1 | Pending |
-| NAV-02 | Phase 1 | Pending |
+| NAV-01 | Phase 1 | Complete |
+| NAV-02 | Phase 1 | Complete |
 | NAV-03 | Phase 3 | Pending |
-| ABT-01 | Phase 1 | Pending |
-| ABT-02 | Phase 1 | Pending |
-| SRV-01 | Phase 1 | Pending |
-| SRV-02 | Phase 1 | Pending |
-| SRV-03 | Phase 1 | Pending |
+| ABT-01 | Phase 1 | Complete |
+| ABT-02 | Phase 1 | Complete |
+| SRV-01 | Phase 1 | Complete |
+| SRV-02 | Phase 1 | Complete |
+| SRV-03 | Phase 1 | Complete |
 | PRC-01 | Phase 2 | Pending |
 | PRC-02 | Phase 2 | Pending |
 | Gal-01 | Phase 2 | Pending |
@@ -117,6 +117,7 @@ Which phases cover which requirements. Updated during roadmap creation.
 | SEO-01 | Phase 3 | Pending |
 
 **Coverage:**
+
 - v1 requirements: 16 total
 - Mapped to phases: 16
 - Unmapped: 0 ✓
