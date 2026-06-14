@@ -101,20 +101,20 @@ Which phases cover which requirements. Updated during roadmap creation.
 |-------------|-------|--------|
 | NAV-01 | Phase 1 | Pending |
 | NAV-02 | Phase 1 | Pending |
-| NAV-03 | Phase 2 | Pending |
+| NAV-03 | Phase 3 | Pending |
 | ABT-01 | Phase 1 | Pending |
 | ABT-02 | Phase 1 | Pending |
 | SRV-01 | Phase 1 | Pending |
 | SRV-02 | Phase 1 | Pending |
 | SRV-03 | Phase 1 | Pending |
-| PRC-01 | Phase 1 | Pending |
-| PRC-02 | Phase 1 | Pending |
-| Gal-01 | Phase 1 | Pending |
-| CON-01 | Phase 1 | Pending |
-| CON-02 | Phase 1 | Pending |
-| MBL-01 | Phase 1 | Pending |
-| PRF-01 | Phase 1 | Pending |
-| SEO-01 | Phase 2 | Pending |
+| PRC-01 | Phase 2 | Pending |
+| PRC-02 | Phase 2 | Pending |
+| Gal-01 | Phase 2 | Pending |
+| CON-01 | Phase 2 | Pending |
+| CON-02 | Phase 2 | Pending |
+| MBL-01 | Phase 3 | Pending |
+| PRF-01 | Phase 3 | Pending |
+| SEO-01 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 16 total
@@ -123,4 +123,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-06-14*
-*Last updated: 2026-06-14 after initial definition*
+*Last updated: 2026-06-14 after roadmap creation*
